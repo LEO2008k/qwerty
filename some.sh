@@ -2,4 +2,5 @@
 
 #./ping.sh
 
-./date.sh
+sh ./date.sh 
+echo "execute date.sh script"
