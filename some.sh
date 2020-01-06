@@ -1,6 +1,8 @@
 #!/bin/bash
 
-#./ping.sh
+./ping.sh
+echo "executed pin.sh SUCCESSFULLY"
 
-sh ./date.sh 
-echo "execute date.sh script"
+
+./date.sh 
+echo "executed date.sh script"
